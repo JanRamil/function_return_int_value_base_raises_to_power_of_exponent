@@ -5,4 +5,10 @@
 
 # Create a code that define a function
 def exponent(base, exp):
-    
+    # Creating a code that will calculate the result of the exponent
+    num = exp
+    result = 1
+    while num > 0:
+        result = result * base
+        num = num - 1
+        

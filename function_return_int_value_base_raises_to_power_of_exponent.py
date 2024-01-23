@@ -3,3 +3,6 @@
 
 # Create pseudocode
 
+# Create a code that define a function
+def exponent(base, exp):
+    

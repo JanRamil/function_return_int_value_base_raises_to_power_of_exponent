@@ -12,5 +12,8 @@ def exponent(base, exp):
         result = result * base
         num = num - 1
         
-        # Create a code that will print the result of the exponent
-        print(base, "is raises to the power of", exp, "is: ", result)
+    # Create a code that will print the result of the exponent
+    print(base, "is raises to the power of", exp, "is: ", result)
+
+# Creating the code for the given 
+exponent(5, 4)
